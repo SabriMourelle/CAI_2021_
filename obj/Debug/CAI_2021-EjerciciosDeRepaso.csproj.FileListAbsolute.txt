@@ -1,0 +1,7 @@
+C:\Users\saamo\source\repos\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\obj\Debug\CAI_2021-EjerciciosDeRepaso.csproj.AssemblyReference.cache
+C:\Users\saamo\source\repos\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\obj\Debug\CAI_2021-EjerciciosDeRepaso.csproj.CoreCompileInputs.cache
+C:\Users\saamo\source\repos\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\bin\Debug\CAI_2021-EjerciciosDeRepaso.exe.config
+C:\Users\saamo\source\repos\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\bin\Debug\CAI_2021-EjerciciosDeRepaso.exe
+C:\Users\saamo\source\repos\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\bin\Debug\CAI_2021-EjerciciosDeRepaso.pdb
+C:\Users\saamo\source\repos\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\obj\Debug\CAI_2021-EjerciciosDeRepaso.exe
+C:\Users\saamo\source\repos\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\obj\Debug\CAI_2021-EjerciciosDeRepaso.pdb

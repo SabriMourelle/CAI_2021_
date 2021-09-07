@@ -1,0 +1,6 @@
+C:\Users\saamo\Documents\GitHub\CAI_2021_\EjercicioDeRepaso\EjercicioDeRepaso.EjercicioRepaso6\bin\Debug\EjercicioDeRepaso.EjercicioRepaso6.exe.config
+C:\Users\saamo\Documents\GitHub\CAI_2021_\EjercicioDeRepaso\EjercicioDeRepaso.EjercicioRepaso6\bin\Debug\EjercicioDeRepaso.EjercicioRepaso6.exe
+C:\Users\saamo\Documents\GitHub\CAI_2021_\EjercicioDeRepaso\EjercicioDeRepaso.EjercicioRepaso6\bin\Debug\EjercicioDeRepaso.EjercicioRepaso6.pdb
+C:\Users\saamo\Documents\GitHub\CAI_2021_\EjercicioDeRepaso\EjercicioDeRepaso.EjercicioRepaso6\obj\Debug\EjercicioDeRepaso.EjercicioRepaso6.csproj.CoreCompileInputs.cache
+C:\Users\saamo\Documents\GitHub\CAI_2021_\EjercicioDeRepaso\EjercicioDeRepaso.EjercicioRepaso6\obj\Debug\EjercicioDeRepaso.EjercicioRepaso6.exe
+C:\Users\saamo\Documents\GitHub\CAI_2021_\EjercicioDeRepaso\EjercicioDeRepaso.EjercicioRepaso6\obj\Debug\EjercicioDeRepaso.EjercicioRepaso6.pdb

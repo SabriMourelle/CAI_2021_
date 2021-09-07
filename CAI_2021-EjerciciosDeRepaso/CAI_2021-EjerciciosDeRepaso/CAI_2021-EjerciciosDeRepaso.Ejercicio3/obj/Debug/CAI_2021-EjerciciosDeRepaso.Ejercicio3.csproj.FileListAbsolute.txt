@@ -1,0 +1,7 @@
+C:\Users\saamo\Documents\GitHub\CAI_2021_\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso.Ejercicio3\bin\Debug\CAI_2021-EjerciciosDeRepaso.Ejercicio3.exe.config
+C:\Users\saamo\Documents\GitHub\CAI_2021_\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso.Ejercicio3\bin\Debug\CAI_2021-EjerciciosDeRepaso.Ejercicio3.exe
+C:\Users\saamo\Documents\GitHub\CAI_2021_\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso.Ejercicio3\bin\Debug\CAI_2021-EjerciciosDeRepaso.Ejercicio3.pdb
+C:\Users\saamo\Documents\GitHub\CAI_2021_\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso.Ejercicio3\obj\Debug\CAI_2021-EjerciciosDeRepaso.Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\saamo\Documents\GitHub\CAI_2021_\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso.Ejercicio3\obj\Debug\CAI_2021-EjerciciosDeRepaso.Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\saamo\Documents\GitHub\CAI_2021_\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso.Ejercicio3\obj\Debug\CAI_2021-EjerciciosDeRepaso.Ejercicio3.exe
+C:\Users\saamo\Documents\GitHub\CAI_2021_\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso\CAI_2021-EjerciciosDeRepaso.Ejercicio3\obj\Debug\CAI_2021-EjerciciosDeRepaso.Ejercicio3.pdb

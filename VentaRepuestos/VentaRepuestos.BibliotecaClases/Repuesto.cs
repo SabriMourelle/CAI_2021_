@@ -14,16 +14,18 @@ namespace VentaRepuestos.BibliotecaClases
         private string _nombre;
         private double _precio;
         private int _stock;
-        private Categoria _categoria;
+        private string _categoria;
     
 
-    public Repuesto (int codigo,string nombre,double precio,int stock,Categoria categoria)
+    public Repuesto (int codigo,string nombre,double precio,int stock, string categoria)
     {
             _codigo = codigo;
             _nombre = nombre;
             _precio = precio;
             _stock = stock;
             _categoria = categoria;
+          
+          
 
     }
 

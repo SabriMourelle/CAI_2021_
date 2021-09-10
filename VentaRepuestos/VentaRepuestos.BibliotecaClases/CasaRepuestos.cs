@@ -28,6 +28,27 @@ namespace VentaRepuestos.BibliotecaClases
             
         }
 
+        public List<Repuesto> TraerRepuesto()
+        {
+            if (_repuesto.Count == 0)
+                return null;
+            else
+                return _repuesto;
+        }
+        public bool AgregarRepuesto(int codigo,string nombre,double precio ,int stock,string categoria)
+        {
+
+            int nuevoCodigo = NuevoCodigo();
+
+            Repuesto repuesto = new Repuesto(codigo, nombre, precio, stock,categoria);
+
+            _repuesto.Add(repuesto);
+
+            return true;
+
+        }
+
+
         private int NuevoCodigo()
         {
           //verificar cual fue el ultimo codigo y sumarle 1

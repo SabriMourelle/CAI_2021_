@@ -8,7 +8,17 @@ namespace VentaRepuestos.BibliotecaClases
 {
     public class Categoria
     {
-        private int _codigo;
-        private string _nombre;
+        private int _codigocat;
+        private string _nombrecat;
+        private string _categoria;
+
+        //Habrá 3 categorías: moto, auto, camión
+
+        public Categoria(string categoria, int codigoCat, string nombreCat)
+        {
+            _categoria = categoria;
+            _codigocat = codigoCat;
+            _nombrecat = nombreCat;
+        }
     }
 }

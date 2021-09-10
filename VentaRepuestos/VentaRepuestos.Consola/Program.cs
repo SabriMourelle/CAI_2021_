@@ -12,11 +12,15 @@ namespace VentaRepuestos.Consola
     {
         static bool _consolaActiva = true;
         static CasaRepuestos _nombreComercio;
+        //chequear si es así como se agrega ultimo cod utilizado
+
+        int lastCod;
 
         static Program ()
         {
             _consolaActiva = true;
             _nombreComercio = new CasaRepuestos("El cosito del coso", "Corrientes 1575");
+           
         }
 
         static void DesplegarMenu()
@@ -78,10 +82,14 @@ namespace VentaRepuestos.Consola
         string nombre=AyudaConsola.SolicitarString();
         double precio=AyudaConsola.SolicitarDouble();
         int stock=AyudaConsola.SolicitarInt();
-        Categoria categoria;
+        string categoria=AyudaConsola.SolicitarCat();
 
-            Repuesto repuesto = new Repuesto(codigo, nombre, precio, stock, categoria);
+            Repuesto repuesto = new Repuesto(codigo, nombre, precio, stock,categoria);
+
+            
         }
+
+        
 
        
     }
